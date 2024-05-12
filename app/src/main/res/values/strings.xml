@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+    <string name="lbl_new_todo_title">New Task</string>
+    <string name="lbl_edit_todo_title">Edit Task</string>
+    <string name="hint_enter_note">Enter your Task!</string>
+    <string name="about">About</string>
+    <string name="about_info">TodoApp is the easiest way to get stuff done. Whether you’re planning a holiday, sharing a shopping list with a partner or managing multiple work projects, TodoApp is here to help you tick off all your personal and professional to-dos.
+    \n\nOrganize and share your to-do, work, grocery, movies and household lists. No matter what you’re planning, how big or small the task may be, TodoApp makes it super easy to get stuff done.
+    \n\nTodoApp has become my digital brain for juggling different aspects of my job. This makes the busyness and craziness feel so much simpler.</string>
+
+
+    <string name="name">Name</string>
+    <string name="log_in">Log In</string>
+    <string name="forget_your_password">Forget Your Password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register_now">Register now</string>
+    <string name="todo">TODO</string>
+    <string name="grab_your_tickets">Grab your tickets</string>
+    <string name="events">Events</string>
+    <string name="up_coming_shows">Up Coming shows</string>
+    <string name="up_coming_show">Up Coming show</string>
+    <string name="get_started">Get Started</string>
+    <string name="your_adventure_begins_here_start_discovering_now">Your adventure begins here. Start discovering now!</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="instant_ever_alerts">Instant ever Alerts</string>
+    <string name="get_instant_updates_on_nearby_events_from_concerts_to_festivals">Get instant updates on nearby events, from concerts to festivals</string>
+    <string name="terms_and_condition">Terms And Condition</string>
+    <string name="welcome_to_your_event_app_these_terms_and_conditions_govern_your_use_of_our_mobile_application_and_related_services_by_using_our_app_you_agree_to_comply_with_these_terms_if_you_do_not_agree_with_any_part_of_these_terms_please_refrain_from_using_our_app_1_user_conduct_you_agree_to_use_the_app_in_accordance_with_all_applicable_laws_and_regulations_you_agree_not_to_use_the_app_for_any_unlawful_or_unauthorized_purpose_you_agree_not_to_interfere_with_the_app_s_operation_or_disrupt_other_users_experiences_2_account_registration_you_may_be_required_to_create_an_account_to_access_certain_features_of_the_app_you_agree_to_provide_accurate_and_complete_information_when_registering_for_an_account_you_are_responsible_for_maintaining_the_confidentiality_of_your_account_credentials_and_for_all_activities_that_occur_und">Welcome to [Your Event App]! These terms and conditions govern your use of our mobile application and related services. By using our app, you agree to comply with these terms. If you do not agree with any part of these terms, please refrain from using our app. 1. User Conduct You agree to use the app in accordance with all applicable laws and regulations. You agree not to use the app for any unlawful or unauthorized purpose. You agree not to interfere with the app\'s operation or disrupt other users\' experiences. 2. Account Registration You may be required to create an account to access certain features of the app. You agree to provide accurate and complete information when registering for an account. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur und</string>
+    <string name="agree">Agree</string>
+    <string name="sign_up">Sign up</string>
+    <string name="firstname">FirstName</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="edit">Edit</string>
+    <string name="_0705246580">0705246580</string>
+    <string name="delete_my_account">Delete My Account</string>
+    <string name="bns_with_umaria">BnS with Umaria</string>
+    <string name="nadhagama">Nadhagama</string>
+    <string name="subathiaswini2002_gmail_com">subathiaswini2002@gmail.com</string>
+    <string name="aloka_rathnayaka">Aloka Rathnayaka</string>
+    <string name="aloka_rathnayake">Aloka Rathnayake</string>
+    <string name="be_the_first_to_know">Be the first to know</string>
+    <string name="enable_notification_to_make_sure_you_are_first_in_line_to_get_tickets_for_the_show">Enable notification to make sure you are first in line to get tickets for the show</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="add_reminders">Add Reminder</string>
+    <string name="upcomingshows">Up coming show</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="note">Note</string>
+    <string name="add1">Add</string>
+    <string name="notification">Notification</string>
+    <string name="login1">Login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="fn">FirstName</string>
+
+
+</resources>
